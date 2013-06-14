@@ -1,6 +1,6 @@
 RFIDAUTH
 
-Authenticate yourself using RFID tags.
+Authenticate yourself using RFID tags and your phone.
 
 The concept works as follows:
 
